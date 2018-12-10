@@ -7,6 +7,8 @@ Notes and analysis from sessions attended during re:Invent 2018.
 <!-- MarkdownTOC depth=4 -->
 
 - [Session Notes](#session-notes)
+    - [Containers](#containers)
+    - [Security & Networking](#security--networking)
 
 <!-- /MarkdownTOC -->
 
