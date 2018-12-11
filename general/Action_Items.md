@@ -1,5 +1,4 @@
-Action items
-=======================
+## Action items
 
 * Checkout Amazon QuickSight for visualizations - they have added support for dashboard embedding and APIs
 => https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-quickSight-adds-support-for-dashboard-embedding-and-APIs
@@ -54,12 +53,7 @@ Action items
 * Do a deep dive on Kinesis
 
 
-############
-############
-
-
-New guidelines
-=======================
+## New guidelines
 
 * Start favoring Aurora over Postgres
 
@@ -73,12 +67,7 @@ New guidelines
     3. distributed tracing
 
 
-############
-############
-
-
-Resources
-=======================
+## Resources
 
 * Book - "Release it, 2nd ed" - Michael Nygard
 * Book - "Drift into Failure" - Sydney Dekker

@@ -1,5 +1,5 @@
-Keynote - Andy Jassy
-- Wednesday Nov 28th @ Venetian
+## Keynote - Andy Jassy
+Wednesday Nov 28th @ Venetian
 
 ############
 ############
@@ -54,7 +54,7 @@ Storage Announcements:
 ############
 ############
 
-THEME 2 - "The right tools for EVERY builder" 
+THEME 2 - "The right tools for EVERY builder"
 - first generation of tools for tinkerers, next generation wants more prescriptive solutions
 
 Announced three tools to make common tasks easier:
@@ -72,10 +72,10 @@ Service that leverages ML that allows you to create a data lake in days (instead
 ############
 ############
 
-THEME 3 - "Freedom" 
+THEME 3 - "Freedom"
 - from old guard databases
 
-Learning to fly... 
+Learning to fly...
 - move off of Oracle & SqlServer => MySQL // Postgres // MariaDB
 
 Aurora is the FASTEST growing AWS service ever.
@@ -110,7 +110,7 @@ NEW - "Amazon Managed Blockchain"
 ############
 ############
 
-THEME 4 - "A little less conversation, and little more action please" 
+THEME 4 - "A little less conversation, and little more action please"
 - lots of progress in the past 12 months to make ML more practical/useful vs theoretical
 
 NEW - "Optimized TensorFlow"
@@ -158,7 +158,7 @@ NEW - "Amazon Deep Racer"
 - build model in the cloud using SageMaker RL
 - deploy model to physical car
 - kicking off "Deep Racer League", series of races/competitions held at AWS Summits throughout 2019, with finals at re:invent 2019
- 
+
 NEW - "Amazon Textract"
 - OCR++
 - scan paper documents intelligently (like medical and legal forms)
@@ -173,7 +173,7 @@ NEW - "Amazon Forecast"
 ############
 ############
 
-THEME 5 - "Should I stay or should I go?" 
+THEME 5 - "Should I stay or should I go?"
 - transition from on-prem to the cloud
 
 Yes, it's a lot of work to move from traditional apps on-premise, but the longer you wait, the more difficult the transition will be.

@@ -1,10 +1,10 @@
-Keynote - Werner Vogels
-- Thursday Nov 29th @ Venetian
+## Keynote - Werner Vogels
+Thursday Nov 29th @ Venetian
 
 ############
 ############
 
-He starts off his keynote by describing his worst day at Amazon... 
+He starts off his keynote by describing his worst day at Amazon...
 
 12/04/2004
 - that was the order deadline date for orders with free super-saver shipping to be delivered by Christmas
