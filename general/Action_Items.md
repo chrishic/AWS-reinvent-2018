@@ -3,6 +3,15 @@
 <!-- MarkdownTOC depth=4 -->
 
 - [Action Items](#action-items)
+    - [Containers & Serverless](#containers--serverless)
+    - [Admin, Configuration & Management](#admin-configuration--management)
+    - [Observability](#observability)
+    - [Infrastructure as Code](#infrastructure-as-code)
+    - [Security](#security)
+    - [Networking & Infrastructure](#networking--infrastructure)
+    - [Development](#development)
+    - [Data & Analytics](#data--analytics)
+    - [General](#general)
 - [Design Principles](#design-principles)
 - [Resources](#resources)
     - [Articles](#articles)
@@ -28,16 +37,16 @@
 
 * Review the new "serverless lens" of the Well Architecture Framework
 
-* Check out gremlin.com/community - "Gremlin with AWS / ECS" (enterprise trial: gremlin.com/break-containers)
+* Check out gremlin.com/community - "Gremlin with AWS / ECS" ([enterprise trial](gremlin.com/break-containers))
 
 * How do we send logs to SumoLogic when running in Fargate? See: https://github.com/aws/containers-roadmap/issues/39
 
 
-### Admin, Configuration and Management
+### Admin, Configuration & Management
 
 * Play around with SSM sessions
 
-* Start using Secrets Manager, play around with workshop on Github [https://github.com/aws-samples/aws-secretsmgr-workshop]
+* Start using Secrets Manager, play around with [Secrets Manager workshop on Github](https://github.com/aws-samples/aws-secretsmgr-workshop)
 
 * Check out AWS Budgets
 
@@ -130,13 +139,13 @@
 1. [ACM interview with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 ### Books
-1. "Release it, 2nd ed" - Michael Nygard
-2. "Drift into Failure" - Sydney Dekker
-3. "Chaos Engineering" - O'Reilly
+1. [Release it, 2nd edition](https://pragprog.com/book/mnee2/release-it-second-edition)
+2. [Drift into Failure](https://www.amazon.com/Drift-into-Failure-Components-Understanding-ebook/dp/B009KOKXKY)
+3. [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
 
 ### Papers
-1. "The Network is Reliable" - ACM Queue 2014 - Bailis
-2. "Paxos Made Simple" - Leslie Lamport - 01 Nov 2001
+1. [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736) - ACM Queue 2014 - Bailis
+2. [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/) - Leslie Lamport - 01 Nov 2001
 
 ### Tools
-1. Netflix "Spinnaker" project for deployment
+1. Netflix [Spinnaker](https://www.spinnaker.io/) project for deployment
