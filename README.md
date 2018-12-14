@@ -43,14 +43,14 @@ Notes and analysis from sessions attended during re:Invent 2018.
 
 ### Serverless
   1. [A Serverless Journey: AWS Lambda Under the Hood](./11_28-wed/SRV409-A_Serverless_Journey_AWS_Lambda_Under.md)
-  2. Inside AWS: Technology Choices for Modern Applications
-  3. Leadership Session: Using DevOps, Microservices, and Serverless to Accelerate Innovation
+  2. [Inside AWS: Technology Choices for Modern Applications](./11_29-thurs/SRV305-Inside_AWS_Technology_Choices.md)
+  3. [Leadership Session: Using DevOps, Microservices, and Serverless to Accelerate Innovation](./11_29-thurs/SRV325-Using_DevOps_Microservices_Serverless.md)
   4. Lambda Layers and Runtime API
 
 ### Dev-Ops
   1. [What's New with AWS CloudFormation](./11_27-tues/DEV321-Whats_New_with_AWS_CloudFormation.md)
   2. [What's New with the AWS CLI](./11_27-tues/DEV321-Whats_New_with_the_AWS_CLI.md)
-  3. Beyond the Basics: Advanced Infrastructure as Code Programming on AWS
+  3. [Beyond the Basics: Advanced Infrastructure as Code Programming on AWS](./11_29-thurs/DEV327-Beyond_the_Basics_Advanced_IaC.md)
 
 ### Databases
   1. [Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database](./11_26-mon/DAT321-Amazon_DynamoDB_Under_the_Hood.md)
