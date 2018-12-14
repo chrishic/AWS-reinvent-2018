@@ -127,16 +127,16 @@
 ## Resources
 
 ### Articles
-    * [ACM interview with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+1. [ACM interview with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 ### Books
-    * "Release it, 2nd ed" - Michael Nygard
-    * "Drift into Failure" - Sydney Dekker
-    * "Chaos Engineering" - O'Reilly
+1. "Release it, 2nd ed" - Michael Nygard
+2. "Drift into Failure" - Sydney Dekker
+3. "Chaos Engineering" - O'Reilly
 
 ### Papers
-    * "The Network is Reliable" - ACM Queue 2014 - Bailis
-    * "Paxos Made Simple" - Leslie Lamport - 01 Nov 2001
+1. "The Network is Reliable" - ACM Queue 2014 - Bailis
+2. "Paxos Made Simple" - Leslie Lamport - 01 Nov 2001
 
 ### Tools
-    * Netflix "Spinnaker" project for deployment
+1. Netflix "Spinnaker" project for deployment
