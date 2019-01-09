@@ -34,7 +34,7 @@ Notes and analysis from sessions attended during re:Invent 2018.
 
 ### Containers
   1. [Breaking Containers: Chaos Engineering for Modern Applications on AWS](./11_26-mon/CON310-Breaking_Containers_Chaos_Engineering.md)
-  2. Introducing AWS Cloud Map
+  2. [Introducing AWS Cloud Map](./11_30-fri/CON366-Introducing_AWS_Cloud_Map.md)
 
 ### Networking
   1. [Another Day in the Life of a Cloud Network Engineer at Netflix](./11_26-mon/NET312-Another_Day_in_the_Life.md)
@@ -45,7 +45,7 @@ Notes and analysis from sessions attended during re:Invent 2018.
   1. [A Serverless Journey: AWS Lambda Under the Hood](./11_28-wed/SRV409-A_Serverless_Journey_AWS_Lambda_Under.md)
   2. [Inside AWS: Technology Choices for Modern Applications](./11_29-thurs/SRV305-Inside_AWS_Technology_Choices.md)
   3. [Leadership Session: Using DevOps, Microservices, and Serverless to Accelerate Innovation](./11_29-thurs/SRV325-Using_DevOps_Microservices_Serverless.md)
-  4. Lambda Layers and Runtime API
+  4. [Lambda Layers and Runtime API](./11_30-fri/SRV375-Lambda_Layers.md)
 
 ### Dev-Ops
   1. [What's New with AWS CloudFormation](./11_27-tues/DEV321-Whats_New_with_AWS_CloudFormation.md)

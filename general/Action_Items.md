@@ -1,3 +1,5 @@
+# Action Items & Follow Up
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -35,11 +37,15 @@
 
 * Research and experiment with AWS Step Functions for coordinating orchestration
 
-* Review the new "serverless lens" of the Well Architecture Framework
+* Review the new ["AWS Well-Architected Framework - Serverless Applications Lens" whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
 
 * Check out gremlin.com/community - "Gremlin with AWS / ECS" ([enterprise trial](gremlin.com/break-containers))
 
 * How do we send logs to SumoLogic when running in Fargate? See: https://github.com/aws/containers-roadmap/issues/39
+
+* Look into Cloud Map integration for ECS. How do we enable Cloud Map for ECS tasks - is this a property of the service definition? How do you specify attributes?
+
+* Start using [AWS SAM CLI](https://github.com/awslabs/aws-sam-cli) for developing Lambda functions
 
 
 ### Admin, Configuration & Management

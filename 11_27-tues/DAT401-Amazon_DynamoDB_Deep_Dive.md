@@ -42,7 +42,7 @@ Partition key
 - uniquely identifies item
 - used for building unordered hash index
 
-Sort key 
+Sort key
 - optional
 - sorts items within that bucket
 - use to model 1:N relationships
@@ -51,7 +51,7 @@ Partition:Sort Key
 - uses 2 attributes to uniquely identify an item
 
 Partitions are 3-way replicated
-- you have your choice of eventually consistent reads vs strongly consistent reads 
+- you have your choice of eventually consistent reads vs strongly consistent reads
 - strongly consistent reads always hit "primary", whereas eventually consistent is allowed to hit any of the three nodes (primary + 2 secondary)
 
 Local Secondary Index
@@ -65,7 +65,7 @@ Global Secondary Index
 
 Capacity (RCUs / WCUs) are provisioned separately for GSI
 
-GSI updates 
+GSI updates
 - async update model (eventually consistent)
 
 ############
@@ -74,7 +74,7 @@ GSI updates
 Best practice: key design
 
 To get the most out of throughput:
-- partition key element should have a , and those values are requested fairly uniformly, as randomly as possible (like UUIDs).
+- partition key element should have a distinct value, and those values are requested fairly uniformly, as randomly as possible (like UUIDs).
 
 Selecting a partition key:
 - large number of distinct values
