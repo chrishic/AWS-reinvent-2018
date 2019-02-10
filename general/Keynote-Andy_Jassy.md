@@ -192,4 +192,4 @@ NEW - "Amazon Outposts"
 
 Action items:
 * Start leveraging Aurora more - it's a much better version of Postgres
-* Check out "Amazon Personalize" - can we use this to recommend new wines to try?
+* Check out "Amazon Personalize"

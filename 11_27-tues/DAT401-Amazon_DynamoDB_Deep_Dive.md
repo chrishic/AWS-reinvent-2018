@@ -7,6 +7,18 @@ Rick Houlihan - Principal Technologist, NoSQL
 ############
 ############
 
+Agenda:
+- Brief History of Data Processing (Why NoSQL?)
+- Overview of DynamoDB
+- NoSQL Data Modeling
+    * Normalized versus De-normalized schema
+- Common NoSQL Design Patterns
+    * Composite Keys, Hierarchical Data, Relational Data
+- Modeling Real Applications
+
+############
+############
+
 SQL
 - optimized for storage
 - normalized/relational
@@ -26,10 +38,13 @@ NoSQL
 ############
 
 DynamoDB
+- fully managed NoSQL
 - document or key/value store
-- event driven programming
 - highly scalable/performant
 	- single tables can handle up to 4 million transactions/sec
+- fast and consistent
+- access control
+- event driven programming
 
 ############
 ############
