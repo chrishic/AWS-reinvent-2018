@@ -10,6 +10,7 @@
     - [Observability](#observability)
     - [Infrastructure as Code](#infrastructure-as-code)
     - [Security](#security)
+    - [Storage](#storage)
     - [Networking & Infrastructure](#networking--infrastructure)
     - [Development](#development)
     - [Data & Analytics](#data--analytics)
@@ -86,6 +87,11 @@
 * SSH into EC2 to see rotating credentials (from EC2 role)
 
 * Check out [ECS secrets management via SSM Parameter Store](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/specifying-sensitive-data.html)
+
+
+### Storage
+
+* Verify that EFS does provide snapshot feature. Can those snapshots be shared between accounts and copied to other regions (ala EBS)?
 
 
 ### Networking & Infrastructure
