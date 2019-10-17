@@ -63,8 +63,8 @@ Examples of service discovery solutions:
 - dynamic map of cloud
 - convenient name for all cloud resources
 - discover resources with specific attributes
-- ensure only healthly resources are discovered
-- use highly avilable DNS and regional API
+- ensure only healthy resources are discovered
+- use highly available DNS and regional API
 
 Cloud Map Registry
 - namespace (ex. "cloudmapdemo.com")
@@ -83,7 +83,7 @@ $ aws servicediscovery create-service --name frontend
 => these use/return ARNs instead of IPs
 
 ```
-$ aws servicediscovery discover-instances --namespace-name shared --serviuce-name logs --query-parameters ready=yes
+$ aws servicediscovery discover-instances --namespace-name shared --service-name logs --query-parameters ready=yes
 ```
 => returns list of instances
 
